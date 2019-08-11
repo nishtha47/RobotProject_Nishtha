@@ -15,6 +15,8 @@ MyFirstTest
     Set Tags    regression1
     Remove Tags    regression1
     
+MyFirstTest1
+    Log    Test2        
 
 
 FirstSeleniumTest
